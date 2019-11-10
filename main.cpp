@@ -18,6 +18,7 @@ int main() {
     std::cout << "Nowe zmiany!" << std::endl;
 
     // ok już mogę wysyłać //
+    // ok już mogę wysyłać //
 
     return 0;
 }
