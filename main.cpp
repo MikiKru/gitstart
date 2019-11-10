@@ -11,5 +11,12 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, World!" << std::endl;
+
+    std::cout << "Nowe zmiany!" << std::endl;
+    std::cout << "Nowe zmiany!" << std::endl;
+    std::cout << "Nowe zmiany!" << std::endl;
+    std::cout << "Nowe zmiany!" << std::endl;
+
+
     return 0;
 }
