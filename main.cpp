@@ -7,6 +7,8 @@
 
 using namespace std;
 
+int global_variable = 0;
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, World!" << std::endl;
